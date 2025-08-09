@@ -1,3 +1,16 @@
+# Skip Flutter creations
+.metadata
+flutter_test_bre1470.iml
+pubspec.lock
+/.dart_tool/
+/.idea/
+/android/
+/ios/
+/linux/
+/macos/
+/web/
+/windows/
+
 # Miscellaneous
 *.class
 *.lock
